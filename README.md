@@ -3,6 +3,9 @@
 ##### Link to our Presentation: https://docs.google.com/presentation/d/1DVoZO2xauzpxaiZ_lrHfxt_EkTfGZ07xbXIeMRZwH64/edit?usp=sharing
 ##### Link to our Project: https://bhavesh1129.github.io/EveryLifeMatters/
 
+
+<img src="https://github.com/bhavesh1129/EveryLifeMatters/blob/main/Image.png" width="1000" height="500">
+
 ### Our Idea: :bulb:    
 India has over 9 Million cases of COVID-19 currently, with no cure but only a small hope of fighting it with Plasma of a patient fully recovered from COVID. Getting hold of compatible plasma in a short window of time can be really stressful. Our idea is to make the process at least a little easy for donor and requestee. The main aim is to register people willing to donate plasma and making it easier to filter for the person in need to get all donors in one place using filters like city, age and blood type. 
 The Web-page is coded in `HTML, Bootstrap, CSS and JS`. `MySQL` database is used along with php to store information.
